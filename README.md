@@ -2,6 +2,9 @@
 
 A premium, modern blog application showcasing full-stack development skills.
 
+##ScreenShot
+![Blog Application Image](Image/CA-Monk-BlogApplicationImage.png)
+
 ## Features
 - Real-time blog list with beautiful card design
 - Blog detail view with full content
